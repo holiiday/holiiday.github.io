@@ -49,3 +49,13 @@
 		 url('../font/notokr-bold.woff2') format('woff2'),
 		 url('../font/notokr-bold.woff') format('woff');
 }
+ 
+@font-face {
+	font-family: 'Noto Sans KR';
+	font-style: normal;
+	font-weight: 900;
+	src: url('../font/notokr-black.eot');
+	src: url('../font/notokr-black.eot?#iefix') format('embedded-opentype'),
+		 url('../font/notokr-black.woff2') format('woff2'),
+		 url('../font/notokr-black.woff') format('woff');
+}
