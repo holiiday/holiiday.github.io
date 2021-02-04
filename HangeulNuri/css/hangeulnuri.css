@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'HangeulNuri';
+	font-style: normal;
+	font-weight: 300;
+	src: url('../font/HangeulNuriR.eot');
+	src: url('../font/HangeulNuriR.eot?#iefix') format('embedded-opentype'),
+		 url('../font/HangeulNuriR.woff2') format('woff2'),
+		 url('../font/HangeulNuriR.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'HangeulNuri';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../font/HangeulNuriB.eot');
+	src: url('../font/HangeulNuriB.eot?#iefix') format('embedded-opentype'),
+		 url('../font/HangeulNuriB.woff2') format('woff2'),
+		 url('../font/HangeulNuriB.woff') format('woff');
+}
