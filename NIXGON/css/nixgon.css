@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'NIXGON';
+	font-style: normal;
+	font-weight: 300;
+	src: url('../font/NIXGONFONTSL20.eot');
+	src: url('../font/NIXGONFONTSL20.eot?#iefix') format('embedded-opentype'),
+		 url('../font/NIXGONFONTSL20.woff2') format('woff2'),
+		 url('../font/NIXGONFONTSL20.woff') format('woff'),
+		 url('../font/NIXGONFONTSL20.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'NIXGON';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../font/NIXGONFONTSM20.eot');
+	src: url('../font/NIXGONFONTSM20.eot?#iefix') format('embedded-opentype'),
+		 url('../font/NIXGONFONTSM20.woff2') format('woff2'),
+		 url('../font/NIXGONFONTSM20.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'NIXGON';
+	font-style: normal;
+	font-weight: 500;
+	src: url('../font/NIXGONFONTSB20.eot');
+	src: url('../font/NIXGONFONTSB20.eot?#iefix') format('embedded-opentype'),
+		 url('../font/NIXGONFONTSB20.woff2') format('woff2'),
+		 url('../font/NIXGONFONTSB20.woff') format('woff');
+}
