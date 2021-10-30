@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'Binggrae';
+	font-style: normal;
+	font-weight: normal;
+	src: local('¡Ø'),
+        url('../font/Binggrae.woff2') format('woff2'), 
+        url('../font/Binggrae.woff') format('woff'),
+        url('../font/Binggrae.ttf') format('truetype'),
+}
+
+@font-face {
+	font-family: 'Binggrae';
+	font-style: normal;
+	font-weight: 600;
+	src: local('¡Ø'),
+        url('../font/Binggrae-Bold.woff2') format('woff2'), 
+        url('../font/Binggrae-Bold.woff') format('woff'),
+        url('../font/Binggrae-Bold.ttf') format('truetype'),
+}
